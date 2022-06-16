@@ -1,6 +1,6 @@
 Here are some ideas to get you started:╰(*°▽°*)╯╰(*°▽°*)╯
-- 🔭 I’m currently working on **cocoscreator**🌎
-- 🌱 I’m currently learning **TypeScript & React**🦝
+- 🔭 I’m currently working on **AIOT🌎**
+- 🌱 I’m currently learning **TypeScript & React & cocoscreator🦝**
 - 👯 I’m looking to collaborate on learning partner ╭(●｀∀′●)╯╰(●’◡’●)╮
 - 🤔 I’m looking for help with both technical and otherwise🙄
 - 💬 Ask me about **Vue** 🙉
