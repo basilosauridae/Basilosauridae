@@ -1,5 +1,5 @@
 Here are some ideas to get you started:╰(*°▽°*)╯╰(*°▽°*)╯
-- 🔭 I’m currently working on **AIOT🌎**
+- 🔭 I’m currently working on **AIoT🌎**
 - 🌱 I’m currently learning **TypeScript & React & cocoscreator🦝**
 - 👯 I’m looking to collaborate on learning partner ╭(●｀∀′●)╯╰(●’◡’●)╮
 - 🤔 I’m looking for help with both technical and otherwise🙄
