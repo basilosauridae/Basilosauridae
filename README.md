@@ -5,7 +5,7 @@ Here are some ideas to get you started:╰(*°▽°*)╯╰(*°▽°*)╯
 - 🤔 I’m looking for help with both technical and otherwise🙄
 - 💬 Ask me about **Vue** 🙉
 - 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
-- 🥰 idol:JC-T，I'm totally into you！！！💓💘💕
+- 🥰 idol: JC-T（檀健次），I'm totally into you！！！💓💘💕
   
 ![Alt](https://img0.baidu.com/it/u=3748280323,795639241&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=724#pic_center)
 
