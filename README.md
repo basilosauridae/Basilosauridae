@@ -5,7 +5,8 @@ Here are some ideas to get you started:╰(*°▽°*)╯╰(*°▽°*)╯
 - 🤔 I’m looking for help with both technical and otherwise🙄
 - 💬 Ask me about **Vue** 🙉
 - 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
-- <image scr="https://img0.baidu.com/it/u=3748280323,795639241&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=724"/>
+idol:
+<image scr="https://img0.baidu.com/it/u=3748280323,795639241&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=724"/>
 
 ![Metrics](https://metrics.lecoq.io/Basilosauridae?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
 <!--
