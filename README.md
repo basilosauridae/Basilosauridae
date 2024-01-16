@@ -5,7 +5,7 @@ Here are some ideas to get you started:╰(*°▽°*)╯╰(*°▽°*)╯
 - 🤔 I’m looking for help with both technical and otherwise🙄
 - 💬 Ask me about **Vue** 🙉
 - 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
-- 🥰 idol: JC-T（檀健次）💓💘💕
+- 🥰 idol: JC-T💓💘💕
 
 <!--
 **Basilosauridae/Basilosauridae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
