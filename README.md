@@ -17,6 +17,6 @@
 - 👯 I’m looking to collaborate on learning partner ╭(●｀∀′●)╯╰(●’◡’●)╮
 - 🤔 I’m looking for help with both technical and otherwise🙄
 - 💬 Ask me about **Vue** 🙉
-- 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
 - 🐱 I have a pet cat. Her name is Huahua, means flower in Chinese🌺
 - 🥰 idol: JC-T💓💘💕
+- 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
