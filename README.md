@@ -1,4 +1,15 @@
-Here are some ideas to get you started:╰(*°▽°*)╯╰(*°▽°*)╯
+<div style="display:flex;align-items:center"> 
+  <img src="https://cetacea-1304984885.cos.ap-shanghai.myqcloud.com/others/rabbit.gif" width="60" alt="rabbit"/>
+  <a href="https://github.com/basilosauridae">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Hi+guys%EF%BC%8CI'm+Ying" alt="Typing SVG" />
+  </a>
+  <a href="#">
+    <img align="right" src="https://media.giphy.com/media/EKN5g1SnExsobAER1U/giphy.gif" width="150" alt="cat"/>
+  </a>
+</div>
+
+#### Here are some ideas to get you started:
+
 - 🔭 I’m currently working on **AIoT🌎**
 - 🌱 I’m currently learning **TypeScript & React & cocoscreator🦝**
 - 👯 I’m looking to collaborate on learning partner ╭(●｀∀′●)╯╰(●’◡’●)╮
@@ -6,16 +17,3 @@ Here are some ideas to get you started:╰(*°▽°*)╯╰(*°▽°*)╯
 - 💬 Ask me about **Vue** 🙉
 - 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
 - 🥰 idol: JC-T💓💘💕
-
-<!--
-**Basilosauridae/Basilosauridae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
