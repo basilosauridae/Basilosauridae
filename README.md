@@ -18,5 +18,5 @@
 - 🤔 I’m looking for help with both technical and otherwise🙄
 - 💬 Ask me about **Vue** 🙉
 - 🐱 I have a pet cat. Her name is Huahua, means flower in Chinese🌺
-- 🥰 idol: JC-T💓💘💕
+- 🥰 bjyxszd💓💘💕
 - 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
