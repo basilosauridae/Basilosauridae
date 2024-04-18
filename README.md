@@ -20,3 +20,14 @@
 - 🐱 I have a pet cat. Her name is Huahua, means flower in Chinese🌺
 - 🥰 bjyxszd💓💘💕
 - 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
+
+<!--![basilosauridae's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilosauridae&show_icons=true&theme=tokyonight) //提交评级-->
+
+🤠 Number of visitors：<br>
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+📡 Non-private github repository language：<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilosauridae&layout=compact&theme=tokyonight)
+
+
+
