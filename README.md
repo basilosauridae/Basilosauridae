@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFE105&center=true&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Here+are+some+ideas+to+get+you+started)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **AIoT🌎**
-- 🌱 I’m currently learning **TypeScript & React & cocoscreator🦝**
+- 🌱 I’m currently learning **TypeScript & React & cocoscreator & Blender🦝**
 - 👯 I’m looking to collaborate on learning partner ╭(●｀∀′●)╯╰(●’◡’●)╮
 - 🤔 I’m looking for help with both technical and otherwise🙄
 - 💬 Ask me about **Vue** 🙉
