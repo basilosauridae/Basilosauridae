@@ -19,4 +19,5 @@
 - 💬 Ask me about **Vue** 🙉
 - 🐱 I have a pet cat. Her name is Huahua, means flower in Chinese🌺
 - 🥰 Xavier & Rafayel💓💘💕
-- 📫 How to reach me｜д•´)!!: **[My personal website](https://basilosauridae.github.io/)**
+- 📫 How to reach me｜д•´)!!: **[blog](https://basilosauridae.github.io/)**
+
