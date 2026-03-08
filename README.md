@@ -14,14 +14,14 @@
 
 👋 Hi, I’m @Ying
 
-👀 I’m interested in building interactive web apps and games.
+👀 Web apps & games enthusiast.
 
-🌱 I’m currently learning **TypeScript**, **React**, **Cocos Creator**, and **Blender**.
+🌱 Learning: TypeScript, React, Cocos Creator, Blender.
 
-💞️ I’m looking to collaborate on algorithm challenges and coding interview prep.
+💞️ Looking to collaborate on coding interview prep / algorithm challenges.
 
-📫 How to reach me: lumang7520@126.com | [Blog](https://basilosauridae.github.io/)
+📫 lumang7520@126.com | [Blog](https://basilosauridae.github.io/)
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: Coming soon!
+⚡ Fun fact: TBD
