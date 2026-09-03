@@ -1,6 +1,7 @@
 <!-- 图片横幅（你喜欢的图） -->
 <p align="center">
-  <img src="https://pic.rmb.bdstatic.com/bjh/events/6d409a9b7c7765f4cb6e1119b57e837e5081.jpeg@h_1280" width="100%" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
+  <!-- <img src="https://pic.rmb.bdstatic.com/bjh/events/6d409a9b7c7765f4cb6e1119b57e837e5081.jpeg@h_1280" width="100%" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" /> -->
+  <img src="https://viteconf.org/tickets/t/ReuoISQR_P-R/card/c3b24aa0-df05-4fae-9190-1557c29a6d26.png" width="100%" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
 </p>
 
 <!-- 动态打字标题 -->
