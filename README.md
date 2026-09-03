@@ -5,9 +5,9 @@
 </p>
 
 <!-- 动态打字标题 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF4D4D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ying.;Asuka+Langley+Soryu;Anta+Baka%3F;Let's+fly,+Shinji!;Frontend+%26+Game+Dev" alt="Typing SVG" />
-</p>
+</p> -->
 
 <!-- 访客计数徽章 -->
 <p align="right">
